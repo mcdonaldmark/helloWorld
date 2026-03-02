@@ -12,4 +12,4 @@ Python
 
 # Video
 
-https://www.youtube.com/watch?v=HGr2hST4rBk
+https://www.youtube.com/watch?v=QIHGoVVJj40
