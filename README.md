@@ -11,3 +11,5 @@ Printed "Hello World" with python code in VS Code.
 Python
 
 # Video
+
+https://www.youtube.com/watch?v=HGr2hST4rBk
